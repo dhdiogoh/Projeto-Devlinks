@@ -45,7 +45,8 @@ como eu quero apenas minhas laterais como auto, meu top como 56px, e meu bottom 
 posso resumir como no exemplo abaixo */
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* border: 1px solid white; */
   margin: 56px auto 0px;
   padding: 0 24px;
